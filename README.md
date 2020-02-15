@@ -23,7 +23,7 @@ The goals / steps of this project are the following:
 [image60]: ./output_images/step60_result.jpg "Inverse Warping"
 [image7]: ./output_images/step6_result.jpg "Final Result"
 [image8]: ./output_images/points_selector_gui.png "Points Selector Gui"
-[video1]: ./output_videos/project_video.mp4 "Video"
+[video1]: ./output_videos/project_video.gif "Video"
 
 [img_distortion]: ./output_images/distortion.jpg "Distortion Correction"
 
